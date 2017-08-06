@@ -31,6 +31,7 @@ import { XLargeDirective } from './home/x-large';
 
 import '../styles/styles.scss';
 import '../styles/headings.css';
+import {ListModule} from "./list/list.module";
 
 // Application wide providers
 const APP_PROVIDERS = [
@@ -63,6 +64,7 @@ type StoreType = {
     BrowserModule,
     FormsModule,
     HttpModule,
+    ListModule,
     RouterModule.forRoot(ROUTES, { useHash: true, preloadingStrategy: PreloadAllModules })
   ],
   /**

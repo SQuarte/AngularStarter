@@ -88,6 +88,14 @@
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/@angularclass/hmr/-/hmr-1.2.2.tgz#46a18f89a1e94d05c268b83c9480e005f73fc265"
 
+"@ngrx/store@ngrx/store":
+  version "2.2.3"
+  resolved "https://codeload.github.com/ngrx/store/tar.gz/ce8be550ceffd0ad4cdee8f627b2b3717e9c4f85"
+
+"@swimlane/ngx-datatable@^10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@swimlane/ngx-datatable/-/ngx-datatable-10.0.1.tgz#7ab2434a6b9a053714251c6a6c17cf8f64890f76"
+
 "@types/fs-extra@^3.0.0":
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/@types/fs-extra/-/fs-extra-3.0.3.tgz#1d66eb670ebf657e57c0fda014df340c19d8aa0c"
@@ -3572,6 +3580,10 @@ ngc-webpack@^3.2.0:
     semver "^5.4.1"
     source-map "^0.5.6"
     ts-node "^3.2.0"
+
+ngx-datatable@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/ngx-datatable/-/ngx-datatable-1.0.3.tgz#9ef9915aa019e9983aa8e3897b61f400f2fd69d5"
 
 no-case@^2.2.0:
   version "2.3.1"
